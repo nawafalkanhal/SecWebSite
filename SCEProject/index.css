@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Katibeh&family=Noto+Naskh+Arabic:wght@400;500&display=swap');
+
+@media(min-width:768px){
+    .news-input{
+      width: 50%;  
+    }
+}
+
+
+.SEC-logo{
+width: 230px; 
+}
+
+.preppy{
+    color: #112031;
+  
+    font-family: 'NotoNaskhArabic', sans-serif,fantasy,monospace ;
+    font-weight: 400;
+    font-size: 3.125rem;
+    
+    }
+
+.preppyp{
+    color: #152D35;
+      font-family: 'NotoNaskhArabic', sans-serif,fantasy,monospace ;
+    font-weight: 500;
+    font-size: 1.313rem;
+
+    
+}
+.hyper{
+    text-decoration: none;
+    color:#11324D;
+}
+
+.hyper:hover{
+    text-decoration: none;
+   
+    color:#11324D;
+}
+
+
+.carousel-item{
+height: 20rem;
+background:#777;
+color: #fff;
+
+    
+}
+.carouselSection{
+   background:#777;
+ 
+}
+
+.arrowColor{
+    color: #FFC947;
+} 
+.buttoncolor{
+    
+    background-color:#555555;
+    color: #fff;
+}
+
+.buttoncolor:hover{
+    
+    background-color:#555555;
+    color: #fff;
+}
+
+.prographHead{
+    
+    color: #A65E09;
+    font-weight: 400;
+}
+.MicrosoftBackGround{
+    background-color: #000;
+}
+#textArea{
+resize: none;
+}
+#twitter{
+    color: #fff;
+    font-size: 1.875rem;
+}
+
+#twitter:hover{
+    color: #1DA1F2;
+}
+
+#facebook{
+       color: #fff;
+    font-size: 1.875rem;
+ 
+}
+#facebook:hover{
+       color: #4267B2;
+ 
+}
+
+#linkedin{
+      color: #fff;
+    font-size: 1.875rem;
+  
+}
+#linkedin:hover{
+    color: #0077b5;
+    
+}
+
+#instagram{
+    color: #fff;
+    font-size: 1.875rem;  
+}
+
+#instagram:hover{
+    color: #fe4164; 
+}
+
+.wrapper #error_message{
+  margin-bottom: 20px;
+  background: #fe8b8e;
+  padding: 0px;
+  text-align: center;
+  font-size: 14px;
+  transition: all 0.5s ease;
+}
